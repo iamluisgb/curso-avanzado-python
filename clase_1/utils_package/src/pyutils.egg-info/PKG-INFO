@@ -1,0 +1,15 @@
+Metadata-Version: 2.2
+Name: pyutils
+Version: 0.1.0
+Summary: Un paquete de utilidades Python
+Author: Tu Nombre
+Author-email: tu@email.com
+Keywords: utils,string,date,number
+Requires-Python: >=3.7
+Requires-Dist: python-dateutil>=2.8.0
+Dynamic: author
+Dynamic: author-email
+Dynamic: keywords
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
