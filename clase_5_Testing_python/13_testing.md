@@ -12,7 +12,6 @@ Probar software no solo es una tarea técnica, es un proceso crítico que puede 
 - **Pruebas de rendimiento:** Aseguran que el software sea rápido y eficiente, evaluando su comportamiento bajo diferentes condiciones de carga.
 - **Pruebas de aceptación:** Determinan si el software cumple con las expectativas del usuario final.
 
-![image.png](attachment:dba81ce9-2e5e-4fb2-ab69-70d007050d24:image.png)
 
 ## **¿Qué herramientas de testing ofrece Python?**
 
